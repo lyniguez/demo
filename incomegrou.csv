@@ -1,0 +1,215 @@
+﻿Series Code,Country Code,IncomeGroupLevel
+SP.POP.TOTL,AFG,Low income
+SP.POP.TOTL,ALB,Upper middle income
+SP.POP.TOTL,DZA,Upper middle income
+SP.POP.TOTL,ASM,Unavailable
+SP.POP.TOTL,ADO,Unavailable
+SP.POP.TOTL,AGO,Lower middle income
+SP.POP.TOTL,ATG,Unavailable
+SP.POP.TOTL,ARG,Upper middle income
+SP.POP.TOTL,ARM,Lower middle income
+SP.POP.TOTL,ABW,Unavailable
+SP.POP.TOTL,AUS,High income
+SP.POP.TOTL,AUT,High income
+SP.POP.TOTL,AZE,Upper middle income
+SP.POP.TOTL,BHS,High income
+SP.POP.TOTL,BHR,Unavailable
+SP.POP.TOTL,BGD,Lower middle income
+SP.POP.TOTL,BRB,Unavailable
+SP.POP.TOTL,BLR,Upper middle income
+SP.POP.TOTL,BEL,High income
+SP.POP.TOTL,BLZ,Upper middle income
+SP.POP.TOTL,BEN,Low income
+SP.POP.TOTL,BMU,High income
+SP.POP.TOTL,BTN,Lower middle income
+SP.POP.TOTL,BOL,Lower middle income
+SP.POP.TOTL,BIH,Upper middle income
+SP.POP.TOTL,BWA,Upper middle income
+SP.POP.TOTL,BRA,Upper middle income
+SP.POP.TOTL,BRN,High income
+SP.POP.TOTL,BGR,Upper middle income
+SP.POP.TOTL,BFA,Low income
+SP.POP.TOTL,BDI,Low income
+SP.POP.TOTL,CPV,Unavailable
+SP.POP.TOTL,KHM,Lower middle income
+SP.POP.TOTL,CMR,Lower middle income
+SP.POP.TOTL,CAN,High income
+SP.POP.TOTL,CYM,Unavailable
+SP.POP.TOTL,CAF,Low income
+SP.POP.TOTL,TCD,Low income
+SP.POP.TOTL,CHI,Unavailable
+SP.POP.TOTL,CHL,High income
+SP.POP.TOTL,CHN,Upper middle income
+SP.POP.TOTL,COL,Upper middle income
+SP.POP.TOTL,COM,Unavailable
+SP.POP.TOTL,COD,Low income
+SP.POP.TOTL,COG,Lower middle income
+SP.POP.TOTL,CRI,Upper middle income
+SP.POP.TOTL,CIV,Lower middle income
+SP.POP.TOTL,HRV,Upper middle income
+SP.POP.TOTL,CUB,Upper middle income
+SP.POP.TOTL,CUW,Unavailable
+SP.POP.TOTL,CYP,High income
+SP.POP.TOTL,CZE,High income
+SP.POP.TOTL,DNK,High income
+SP.POP.TOTL,DJI,Lower middle income
+SP.POP.TOTL,DMA,Unavailable
+SP.POP.TOTL,DOM,Upper middle income
+SP.POP.TOTL,ECU,Upper middle income
+SP.POP.TOTL,EGY,Lower middle income
+SP.POP.TOTL,SLV,Lower middle income
+SP.POP.TOTL,GNQ,Upper middle income
+SP.POP.TOTL,ERI,Low income
+SP.POP.TOTL,EST,High income
+SP.POP.TOTL,ETH,Low income
+SP.POP.TOTL,FRO,Unavailable
+SP.POP.TOTL,FJI,Upper middle income
+SP.POP.TOTL,FIN,High income
+SP.POP.TOTL,FRA,High income
+SP.POP.TOTL,PYF,Unavailable
+SP.POP.TOTL,GAB,Upper middle income
+SP.POP.TOTL,GMB,Low income
+SP.POP.TOTL,GEO,Lower middle income
+SP.POP.TOTL,DEU,High income
+SP.POP.TOTL,GHA,Lower middle income
+SP.POP.TOTL,GRC,High income
+SP.POP.TOTL,GRL,High income
+SP.POP.TOTL,GRD,Unavailable
+SP.POP.TOTL,GUM,Unavailable
+SP.POP.TOTL,GTM,Lower middle income
+SP.POP.TOTL,GIN,Low income
+SP.POP.TOTL,GNB,Low income
+SP.POP.TOTL,GUY,Upper middle income
+SP.POP.TOTL,HTI,Low income
+SP.POP.TOTL,HND,Lower middle income
+SP.POP.TOTL,HKG,Unavailable
+SP.POP.TOTL,HUN,High income
+SP.POP.TOTL,ISL,High income
+SP.POP.TOTL,IND,Lower middle income
+SP.POP.TOTL,IDN,Lower middle income
+SP.POP.TOTL,IRN,Upper middle income
+SP.POP.TOTL,IRQ,Upper middle income
+SP.POP.TOTL,IRL,High income
+SP.POP.TOTL,IMY,Unavailable
+SP.POP.TOTL,ISR,High income
+SP.POP.TOTL,ITA,High income
+SP.POP.TOTL,JAM,Upper middle income
+SP.POP.TOTL,JPN,High income
+SP.POP.TOTL,JOR,Lower middle income
+SP.POP.TOTL,KAZ,Upper middle income
+SP.POP.TOTL,KEN,Lower middle income
+SP.POP.TOTL,KIR,Unavailable
+SP.POP.TOTL,PRK,Low income
+SP.POP.TOTL,KOR,High income
+SP.POP.TOTL,KSV,Unavailable
+SP.POP.TOTL,KWT,High income
+SP.POP.TOTL,KGZ,Lower middle income
+SP.POP.TOTL,LAO,Lower middle income
+SP.POP.TOTL,LVA,High income
+SP.POP.TOTL,LBN,Upper middle income
+SP.POP.TOTL,LSO,Lower middle income
+SP.POP.TOTL,LBR,Low income
+SP.POP.TOTL,LBY,Upper middle income
+SP.POP.TOTL,LIE,Unavailable
+SP.POP.TOTL,LTU,High income
+SP.POP.TOTL,LUX,High income
+SP.POP.TOTL,MAC,Unavailable
+SP.POP.TOTL,MKD,Upper middle income
+SP.POP.TOTL,MDG,Low income
+SP.POP.TOTL,MWI,Low income
+SP.POP.TOTL,MYS,Upper middle income
+SP.POP.TOTL,MDV,Unavailable
+SP.POP.TOTL,MLI,Low income
+SP.POP.TOTL,MLT,High income
+SP.POP.TOTL,MHL,Unavailable
+SP.POP.TOTL,MRT,Lower middle income
+SP.POP.TOTL,MUS,Unavailable
+SP.POP.TOTL,MEX,Upper middle income
+SP.POP.TOTL,FSM,Unavailable
+SP.POP.TOTL,MDA,Lower middle income
+SP.POP.TOTL,MCO,Unavailable
+SP.POP.TOTL,MNG,Lower middle income
+SP.POP.TOTL,MNE,Upper middle income
+SP.POP.TOTL,MAR,Lower middle income
+SP.POP.TOTL,MOZ,Low income
+SP.POP.TOTL,MMR,Lower middle income
+SP.POP.TOTL,NAM,Upper middle income
+SP.POP.TOTL,NPL,Low income
+SP.POP.TOTL,NLD,High income
+SP.POP.TOTL,NCL,High income
+SP.POP.TOTL,NZL,High income
+SP.POP.TOTL,NIC,Lower middle income
+SP.POP.TOTL,NER,Low income
+SP.POP.TOTL,NGA,Lower middle income
+SP.POP.TOTL,MNP,Unavailable
+SP.POP.TOTL,NOR,High income
+SP.POP.TOTL,OMN,High income
+SP.POP.TOTL,PAK,Lower middle income
+SP.POP.TOTL,PLW,Unavailable
+SP.POP.TOTL,PAN,Upper middle income
+SP.POP.TOTL,PNG,Lower middle income
+SP.POP.TOTL,PRY,Upper middle income
+SP.POP.TOTL,PER,Upper middle income
+SP.POP.TOTL,PHL,Lower middle income
+SP.POP.TOTL,POL,High income
+SP.POP.TOTL,PRT,High income
+SP.POP.TOTL,PRI,High income
+SP.POP.TOTL,QAT,High income
+SP.POP.TOTL,ROU,Upper middle income
+SP.POP.TOTL,RUS,Upper middle income
+SP.POP.TOTL,RWA,Low income
+SP.POP.TOTL,WSM,Unavailable
+SP.POP.TOTL,SMR,Unavailable
+SP.POP.TOTL,STP,Unavailable
+SP.POP.TOTL,SAU,High income
+SP.POP.TOTL,SEN,Low income
+SP.POP.TOTL,SRB,Upper middle income
+SP.POP.TOTL,SYC,Unavailable
+SP.POP.TOTL,SLE,Low income
+SP.POP.TOTL,SGP,Unavailable
+SP.POP.TOTL,SXM,Unavailable
+SP.POP.TOTL,SVK,High income
+SP.POP.TOTL,SVN,High income
+SP.POP.TOTL,SLB,Lower middle income
+SP.POP.TOTL,SOM,Low income
+SP.POP.TOTL,ZAF,Upper middle income
+SP.POP.TOTL,SSD,Low income
+SP.POP.TOTL,ESP,High income
+SP.POP.TOTL,LKA,Lower middle income
+SP.POP.TOTL,KNA,Unavailable
+SP.POP.TOTL,LCA,Unavailable
+SP.POP.TOTL,MAF,Unavailable
+SP.POP.TOTL,VCT,Unavailable
+SP.POP.TOTL,SDN,Lower middle income
+SP.POP.TOTL,SUR,Upper middle income
+SP.POP.TOTL,SWZ,Lower middle income
+SP.POP.TOTL,SWE,High income
+SP.POP.TOTL,CHE,High income
+SP.POP.TOTL,SYR,Lower middle income
+SP.POP.TOTL,TJK,Lower middle income
+SP.POP.TOTL,TZA,Low income
+SP.POP.TOTL,THA,Upper middle income
+SP.POP.TOTL,TMP,Unavailable
+SP.POP.TOTL,TGO,Low income
+SP.POP.TOTL,TON,Unavailable
+SP.POP.TOTL,TTO,High income
+SP.POP.TOTL,TUN,Lower middle income
+SP.POP.TOTL,TUR,Upper middle income
+SP.POP.TOTL,TKM,Upper middle income
+SP.POP.TOTL,TCA,Unavailable
+SP.POP.TOTL,TUV,Unavailable
+SP.POP.TOTL,UGA,Low income
+SP.POP.TOTL,UKR,Lower middle income
+SP.POP.TOTL,ARE,High income
+SP.POP.TOTL,GBR,High income
+SP.POP.TOTL,USA,High income
+SP.POP.TOTL,URY,High income
+SP.POP.TOTL,UZB,Lower middle income
+SP.POP.TOTL,VUT,Lower middle income
+SP.POP.TOTL,VEN,Upper middle income
+SP.POP.TOTL,VNM,Lower middle income
+SP.POP.TOTL,VIR,Unavailable
+SP.POP.TOTL,WBG,Unavailable
+SP.POP.TOTL,YEM,Lower middle income
+SP.POP.TOTL,ZMB,Lower middle income
+SP.POP.TOTL,ZWE,Low income
